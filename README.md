@@ -19,12 +19,10 @@ A full stack web application built with **Java (Spring Boot)**, **React**, and *
 - **Build Tool**: Maven
 
 ## 📂 Project Structure
+employee-management-system/ # Spring Boot backend employee-management-frontend/ # React frontend
 
-
-## ⚙️ Getting Started
-
+STEPS:
  1. Clone the Repository
-```bash
 git clone https://github.com/your-username/employee-management-system.git
 cd employee-management-system
 

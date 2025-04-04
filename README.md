@@ -23,7 +23,7 @@ A full stack web application built with **Java (Spring Boot)**, **React**, and *
 
 ## ⚙️ Getting Started
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/employee-management-system.git
 cd employee-management-system

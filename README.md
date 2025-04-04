@@ -22,11 +22,8 @@ A full stack web application built with **Java (Spring Boot)**, **React**, and *
 employee-management-system/ # Spring Boot backend employee-management-frontend/ # React frontend
 
 STEPS:
- 1. Clone the Repository
-git clone https://github.com/your-username/employee-management-system.git
-cd employee-management-system
 
-2. Start the Backend (Spring Boot)
+1. Start the Backend (Spring Boot)
 Make sure MySQL is running.
 
 Update application.properties with your database credentials.
@@ -36,7 +33,7 @@ mvn spring-boot: run
 
 
 
-3. Start the Frontend (React)
+2. Start the Frontend (React)
 cd employee-management-frontend
 npm install
 npm start

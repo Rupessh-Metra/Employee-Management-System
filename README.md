@@ -21,9 +21,9 @@ A full stack web application built with **Java (Spring Boot)**, **React**, and *
 ## 📂 Project Structure
 employee-management-system/ # Spring Boot backend employee-management-frontend/ # React frontend
 
-STEPS:
+## STEPS:
 
-1. Start the Backend (Spring Boot)
+-1. Start the Backend (Spring Boot)
 Make sure MySQL is running.
 
 Update application.properties with your database credentials.
@@ -33,7 +33,7 @@ mvn spring-boot: run
 
 
 
-2. Start the Frontend (React)
+-2. Start the Frontend (React)
 cd employee-management-frontend
 npm install
 npm start
